@@ -1,0 +1,9 @@
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\bin\Debug\netstandard1.5\MyFirstOS.deps.json
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\bin\Debug\netstandard1.5\MyFirstOS.dll
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\bin\Debug\netstandard1.5\MyFirstOS.pdb
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.csprojResolveAssemblyReference.cache
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.csproj.CoreCompileInputs.cache
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.AssemblyInfoInputs.cache
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.AssemblyInfo.cs
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.dll
+C:\Users\sean\Documents\Visual Studio\MyFirstOS\MyFirstOS\obj\Debug\netstandard1.5\MyFirstOS.pdb

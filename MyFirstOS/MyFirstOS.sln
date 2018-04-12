@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstOS", "MyFirstOS\MyFirstOS.csproj", "{939C7AB4-2517-4F53-B44A-DF7D08BBBD66}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "MyFirstOSBoot", "MyFirstOS\MyFirstOSBoot.Cosmos", "{8DBAFBD7-8A1C-4B16-AC74-51B6D4C1EA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939C7AB4-2517-4F53-B44A-DF7D08BBBD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939C7AB4-2517-4F53-B44A-DF7D08BBBD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939C7AB4-2517-4F53-B44A-DF7D08BBBD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939C7AB4-2517-4F53-B44A-DF7D08BBBD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBAFBD7-8A1C-4B16-AC74-51B6D4C1EA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBAFBD7-8A1C-4B16-AC74-51B6D4C1EA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBAFBD7-8A1C-4B16-AC74-51B6D4C1EA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBAFBD7-8A1C-4B16-AC74-51B6D4C1EA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38220CF6-8EB4-43BC-96B6-8F66A76ABE61}
+	EndGlobalSection
+EndGlobal
