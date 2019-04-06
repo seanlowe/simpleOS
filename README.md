@@ -15,3 +15,5 @@ if not building something with COSMOS:
 make something:
 	- some kind of embedded something or another?
 	- get it to run in a container (DOCKER)
+
+4.5.19 - project on haitus
