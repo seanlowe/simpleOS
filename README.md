@@ -14,6 +14,4 @@ if not building something with COSMOS:
 
 make something:
 	- some kind of embedded something or another?
-	- build a docker that allows ~small .NET docker environments (100 MB instead of 5 GB)
-		- I want to try this one.
 	- get it to run in a container (DOCKER)
